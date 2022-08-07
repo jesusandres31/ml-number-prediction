@@ -203,7 +203,7 @@
   },
   "weightsManifest": [
     {
-      "paths": ["group1-shard1of1.bin"],
+      "paths": ["ml-number-prediction/group1-shard1of1.bin"],
       "weights": [
         {
           "name": "conv2d_2/kernel",
